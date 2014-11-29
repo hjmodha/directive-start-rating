@@ -1,0 +1,10 @@
+<div>
+	<i class="fa fa-star-o" 
+		ng-repeat="r in [] | range:hmupto"
+	  	ng-mouseover="mouseover(r)"
+	    ng-click="setrating(r)"
+		ng-mouseleave="mouseleave()"
+		id="{{hmid}}{{r}}"
+		style="color:{{ hmcolor }}"
+	></i>
+</div>
