@@ -1,7 +1,7 @@
 
 ##Angular Ratings Directive
 
-A simple AngularJS directive rating controll,
+A simple AngularJS rating control,
 
 ##Requirements
 
